@@ -7,7 +7,7 @@ Author URI:  https://pluginkollektiv.org
 Plugin URI:  https://cachify.pluginkollektiv.org/
 License:     GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Version:     2.3.0
+Version:     2.3.1
 Text Domain: cachify
 Domain Path: /lang
 */
